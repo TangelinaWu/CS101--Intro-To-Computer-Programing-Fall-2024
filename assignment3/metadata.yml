@@ -1,0 +1,12 @@
+---
+:id: 276732523
+:submitters:
+- :name: Angelina Wu
+  :email: aw5287@nyu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-10-11 00:21:29.138720000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-10-10 17:21:29.138720000 Z
+:status: processed
+:score: 200.0
