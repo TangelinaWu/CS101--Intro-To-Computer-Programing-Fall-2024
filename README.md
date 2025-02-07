@@ -1,7 +1,7 @@
 # CS101--Intro-To-Computer-Programing-Fall-2024
 CS Projects Repository
 This repository contains programming projects completed as part of the introductory computer science course at NYU. Each project is designed to teach fundamental concepts of programming and problem-solving using Java.
-
+*Projects can be found in the master branch*
 Projects Overview
 1. Hello World (100/100)
 Description: The first project introduces the basics of Java programming, including printing output and working with variables.
